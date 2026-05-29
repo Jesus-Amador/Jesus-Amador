@@ -5,7 +5,7 @@ Mathematics student | Passionate about scientific programming and data analysis
 ![R](https://img.shields.io/badge/R-165CAA?style=flat&logo=r&logoColor=withe)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter Notebook](https://shields.io/badge/Jupyter-grey?style=flat&logo=jupyter&logoColor=FF5733)
-
+![TeX](https://shields.io/badge/TeX-3A5A40?style=flat&logo=latex&logoColor=165CAA)
 
 <!-- ![TeX](https://shields.io/badge/TeX-E9AB17?style=flat&logo=tex&logoColor=black)
 
