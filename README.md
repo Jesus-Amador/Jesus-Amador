@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I am Jesús Amador
+
+Mathematics student | Passionate about scientific programming and data analysis  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=4584B6)
+![R](https://img.shields.io/badge/R-165CAA?style=flat&logo=r&logoColor=withe)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<!-- ![TeX](https://shields.io/badge/TeX-E9AB17?style=flat&logo=tex&logoColor=black)
+
 
 <!--
 **Jesus-Amador/Jesus-Amador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
